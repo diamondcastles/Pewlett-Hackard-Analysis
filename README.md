@@ -35,7 +35,7 @@ The resulting data was then exported into a new table and saved in the file
 
 ![table_3](./retiring_titles.PNG)
 
-PH has a total of 1549 qualified employees who are eligible for the mentorship program. This is drastically different than the amount of employees retiring, and leaving many job positions vacant. PH should consider expanding the mentorship program to more employees and making that part of their everyday workday as they segue into retirement age- and maybe consider turning the mentorship program into an Apprenticeship program for fresh college graduates and bootcamp graduates. This offsets the drastic difference in 'ready to retire now' employees eligible for the mentorship program vs the potential open vacancies. This may also entice long standing employees to stay with the company longer, which potentially staggers the cost of retirement packages supplied by PH to the retirees.
+- PH has a total of 1549 qualified employees who are eligible for the mentorship program. This is drastically different than the amount of employees retiring, and leaving many job positions vacant. PH should consider expanding the mentorship program to more employees and making that part of their everyday workday as they segue into retirement age- and maybe consider turning the mentorship program into an Apprenticeship program for fresh college graduates and bootcamp graduates. This offsets the drastic difference in 'ready to retire now' employees eligible for the mentorship program vs the potential open vacancies. This may also entice long standing employees to stay with the company longer, which potentially staggers the cost of retirement packages supplied by PH to the retirees.
 
 ![table_4](./retirement_mentorship.PNG)
 
